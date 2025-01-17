@@ -26,7 +26,7 @@ Here are the tools and technologies I work with:
 
 ---
 
-## 🔥 2 Last Featured Projects  
+## 🔥 Last Featured Job Projects  
 ### 1. [Metadata Web Application](#)  
 **Tech:** React.js, Styled Components, Material UI, Context API  
 - Developed new features and resolved critical bugs for an ad management platform.  
@@ -35,7 +35,13 @@ Here are the tools and technologies I work with:
 ### 2. [Livenation Self-Serve UI](#)  
 **Tech:** React.js, TypeScript, React Query, GraphQL  
 - As the Frontend Lead I architected the frontend for an event advertisement platform from scratch.  
-- Led the team, ensuring code quality, scalability, and sprint delivery.  
+- Led the team, ensuring code quality, scalability, and sprint delivery.
+
+---
+
+## 🔥 My Own projects
+Book Findr AI(https://book-findr.vercel.app/) - A Book Recommender powered with AI to suggest the best books based on your personal description
+FlexPlayground(https://flex-world.netlify.app/) - A fun and dynamic visualizator of the flexbox layout model
 
 ---
 
