@@ -39,9 +39,17 @@ Here are the tools and technologies I work with:
 
 ---
 
-## 🔥 My Own projects
-Book Findr AI(https://book-findr.vercel.app/) - A Book Recommender powered with AI to suggest the best books based on your personal description
-FlexPlayground(https://flex-world.netlify.app/) - A fun and dynamic visualizator of the flexbox layout model
+## 💡 My Own projects
+[Book Findr AI](https://book-findr.vercel.app/) - A Book Recommender powered with AI to suggest the best books based on your personal description
+
+[FlexPlayground](https://flex-world.netlify.app/) - A fun and dynamic visualizator of the flexbox layout model
+
+---
+
+## 🌟 My Youtube Channel
+I made a youtube channel for people who wants to learn how to handle  questions and problems in javascript technical interviews.
+
+Join me at: [ReactAI Youtube Channel](https://www.youtube.com/@ReactJS-ai/shorts)
 
 ---
 
